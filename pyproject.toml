@@ -7,6 +7,7 @@ authors = ["yoshiki301 <yoshiki301@gmail.com>"]
 [tool.poetry.dependencies]
 python = ">=3.9,<3.10"
 obp = "^0.5.1"
+ipykernel = "^6.6.1"
 
 [tool.poetry.dev-dependencies]
 
